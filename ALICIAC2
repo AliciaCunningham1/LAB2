@@ -1,0 +1,3 @@
+name = input("Alicia Cunningham: ")
+age = input("28: ")
+print(f"{Alicia Cunningham} is {28} years old. ")
